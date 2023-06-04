@@ -1,0 +1,9 @@
+api-version: 1.19
+
+name: ${project.name}
+version: ${project.version}
+description: '<empty>'
+
+main: dev.imprex.protocol.NetworkMarkerTest
+
+depend: [ProtocolLib]
